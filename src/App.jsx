@@ -16,5 +16,3 @@ function App() {
 }
 
 export default App;
-import React from "react";
-import ReactDOM from "react-dom/client";
